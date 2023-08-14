@@ -1,0 +1,12 @@
+[
+{"hex":"a86cae", "flight":"", "lat":40.432755, "lon":-75.878357, "altitude":16950, "track":297, "speed":346},
+{"hex":"4cc530", "flight":"ICE42P  ", "lat":40.026592, "lon":-74.744672, "altitude":30925, "track":47, "speed":489},
+{"hex":"aa4903", "flight":"", "lat":40.181005, "lon":-74.523135, "altitude":37000, "track":58, "speed":516},
+{"hex":"c01a5c", "flight":"JZA863  ", "lat":40.391098, "lon":-75.395935, "altitude":9850, "track":145, "speed":311},
+{"hex":"abc07b", "flight":"", "lat":40.604187, "lon":-75.249756, "altitude":36000, "track":240, "speed":417},
+{"hex":"ac8b43", "flight":"EDV5257 ", "lat":40.230927, "lon":-75.178711, "altitude":22550, "track":237, "speed":412},
+{"hex":"a86a7e", "flight":"RPA3598 ", "lat":40.091206, "lon":-75.434501, "altitude":20000, "track":227, "speed":385},
+{"hex":"a85e2b", "flight":"UAL2085 ", "lat":40.378006, "lon":-75.740234, "altitude":24800, "track":239, "speed":431},
+{"hex":"a55447", "flight":"RPA4355 ", "lat":39.905457, "lon":-75.767630, "altitude":20000, "track":228, "speed":385},
+{"hex":"ad727d", "flight":"AAL2815 ", "lat":39.784241, "lon":-75.884644, "altitude":28000, "track":231, "speed":406}
+]
