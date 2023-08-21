@@ -1,7 +1,8 @@
 #!/bin/bash
 
 ##########
-# Poll the dump1090 webserver for aircraft json data
+# Simply poll the dump1090 webserver for aircraft json data
+# This is a test script
 # run ./dump1090 --net 
 ##########
 
